@@ -1,5 +1,5 @@
 ---
-title: Composers
+title: Timeline
 timezone: Europe/Berlin
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
-baseurl: "/jekyll-timeline"
-url: http://himsel.me
+description: minha linha do tempo profissional
+baseurl: "/timeline"
+url: https://cassiodeveloper.com.br/timeline
 color: "#f2f2f2"
