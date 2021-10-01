@@ -1,6 +1,6 @@
 ---
-title: Timeline
-timezone: Europe/Berlin
+title: Timeline profissional
+timezone: America/Sao_Paulo
 collections:
   posts:
     title: Posts
@@ -17,7 +17,7 @@ defaults:
     type: steps
   values:
     title: 
-    date: 2016-09-01 00:00:00 -0700
+    date: 1987-10-17 00:00:00 -0700
 markdown: kramdown
 highlighter: rouge
 lsi: false
